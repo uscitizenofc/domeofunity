@@ -28,7 +28,6 @@ Let’s build a future where we, as a global community, can come together under 
 
 __#DYOR__
 Get involved now and be a part of the change!
-Dome Of Unity Twitter Handle
 
 # Dome Of Unity Token $DOU![image](https://github.com/user-attachments/assets/bed38a08-f33c-4708-b290-96335692f238) Details:
 
