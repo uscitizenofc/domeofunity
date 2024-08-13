@@ -38,7 +38,7 @@ Name: Dome Of Unity
 
 Ticker: DOU ($DOU) ![image](https://github.com/user-attachments/assets/2a730b2e-3d92-4909-9358-efcb973d8246)
 
-Ca: 5UVDB92cti5eaQnY95i6jMmjw7i1GH1J6LtnBKCNtThd
+Ca: DomeMEo7QwzF8RGAspjRGKVHX6T5fymLEPkuqHuG1tnx
 
 Creator: DomefHiP6dAo1irpkJsmQPUZV98S9enVnWjEnNZvfnsQ
 
