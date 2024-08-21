@@ -11,7 +11,7 @@ I am excited to introduce you to Dome Of Unity (DOU), a cryptocurrency project I
 |Total Supply|10,000,000,000|
 |Decimals|9|
 |Blockchain| Solana|
-|Contract Address|DomefHiP6dAo1irpkJsmQPUZV98S9enVnWjEnNZvfnsQ|
+|Contract Address|DomeMEo7QwzF8RGAspjRGKVHX6T5fymLEPkuqHuG1tnx|
 |Website|https://domeofunity.xyz|
 |Twitter|https://x.com/settings/profile|
 |Reddit|https://www.reddit.com/user/domeofunity|
